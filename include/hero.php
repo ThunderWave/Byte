@@ -27,13 +27,29 @@
               <span></span>
             </span>
 
+            <!-- This "nav-menu" is hidden on mobile -->
+            <!-- Add the modifier "is-active" to display it on mobile -->
+
+            <div class="nav-right nav-menu">
+              <a class="nav-item" href="index.php#about">
+                  <i class="fa fa-question-circle fa-fw" style="margin-right: 5px;"></i> About
               </a>
+              <a class="nav-item" href="index.php#staff">
+                  <i class="fa fa-wrench fa-fw" style="margin-right: 5px;"></i> Staff
+              </a>
+              <a class="nav-item" target="_blank" href="https://www.scammer.info">
+                  <i class="fa fa-phone fa-fw" target="_blank" style="margin-right: 5px;"></i> Scammer Numbers
+              </a>
+              <a class="nav-item" href="index.php#creations">
+                  <i class="fa fa-code fa-fw" target="_blank" style="margin-right: 5px;"></i> Creations
+              </a>
+
             </div>
         </nav>
     </div>
     <div class="hero-body">
         <h1 class="title">Byte.gg</h1>
-		<h3>Dedicated to stopping scammers!</h3>
+		<h2>Working hard to help prevent scammers!</h2>
 		<br>
         <h1><a class="button is-light" target="_blank" href="https://byte.gg/thunder">Join Discord Server</a></h1>
     </div>
