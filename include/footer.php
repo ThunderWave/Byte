@@ -7,6 +7,17 @@
             <p>
                 &copy; 2017 Byte.gg<br><a href="https://www.youtube.com/user/Themasterdefence">Site by Thunder Tech</a>
             </p>
+			<p><a href="https://www.scammer.info/p/1-privacy">Privacy Policy</a>
+			</p>
+			<script type="text/javascript">
+  var userip;
+</script>
+...
+<script type="text/javascript" src="https://l2.io/ip.js?var=userip"></script>
+...
+<script type="text/javascript">
+  document.write("Your IP is : ", userip);
+</script>
         </div>
     </div>
 </footer>

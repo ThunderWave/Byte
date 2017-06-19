@@ -16,3 +16,5 @@
     <!-- Open Graph  -->
     <meta property="og:description" content="Byte.gg by Thunder, which shows what we as a community can do." />
     <meta property="og:image" content="img/byte.png">
+	
+<?php include_once("analyticstracking.php") ?>
