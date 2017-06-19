@@ -21,13 +21,13 @@
         <h2 class="subtitle">The people who make things</h2>
         <div class="columns" id="managers">
             <div class="column">
-                <a href="https://www.scammer.info" target="_blank" rel="noopener noreferrer"><img src="img/people/thunder.png" class="someone ceo"></a>
+                <a href="https://www.scammer.info" target="_blank" rel="noopener noreferrer"><img src="img/people/thunder.jpg" class="someone ceo"></a>
                 <h3>Thunder Tech</h3>
                 <span class="tag is-danger">Founder & Owner</span>
             </div>
 
             <div class="column">
-                <a href="https://www.youtube.com/channel/UCe8CoNMyKUSLRFKadZt6ZCA/" target="_blank" rel="noopener noreferrer"><img src="img/people/reaper.png" class="someone ceo"></a>
+                <a href="https://www.youtube.com/channel/UCe8CoNMyKUSLRFKadZt6ZCA/" target="_blank" rel="noopener noreferrer"><img src="img/people/reaper.jpg" class="someone ceo"></a>
                 <h3>Reaper (HackersArise)</h3>
                 <span class="tag is-danger">Co-Owner</span>
             </div>
@@ -143,7 +143,7 @@
                         <article class="media">
                             <div class="media-left">
                                 <figure class="image is-64x64">
-                                    <a href="https://bot.cameron.ovh" target="_blank" rel="noopener noreferrer"><img src="img/people/thunder.png"</a>
+                                    <a href="https://bot.cameron.ovh" target="_blank" rel="noopener noreferrer"><img src="img/people/thunder.jpg"</a>
                                 </figure>
                             </div>
                             <div class="media-content">
