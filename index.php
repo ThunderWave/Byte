@@ -115,30 +115,7 @@
                             </div>
                         </article>
                     </div>
-				<div class="box">
-                        <article class="media">
-                            <div class="media-left">
-                                <figure class="image is-64x64">
-                                    <a href="https://a-bot.me" target="_blank" rel="noopener noreferrer"><img src="img/aurora.jpg"</a>
-                                </figure>
-                            </div>
-                            <div class="media-content">
-                                <div class="content">
-                                    <p>
-                                        <strong>A-Bot</strong>
-                                        <br>
-                                        A bot made specifically for Aurora Community, is based off GAwesomeBot but with some custom commands & improvements.
-                                    </p>
-                                </div>
-								<span class="tag is-danger">Important</span>
-								<span class="tag is-info">Secondary</span>
-								<span class="tag is-success">Maintained</span>
-                                <nav class="level">
-                                    <div class="level-left">
-                                </nav>
-                            </div>
-                        </article>
-                    </div>
+				
 				<div class="box">
                         <article class="media">
                             <div class="media-left">
@@ -202,30 +179,7 @@
 
             <div class="columns">
                 <div class="column">
-                    <div class="box">
-                        <article class="media">
-                            <div class="media-left">
-                                <figure class="image is-64x64">
-                                    <a href="https://byte.gg/aurora" target="_blank" rel="noopener noreferrer"><img src="/img/aurora.jpg"</a
-                                </figure>
-                            </div>
-                            <div class="media-content">
-                                <div class="content">
-                                    <p>
-                                        <strong>The Aurora Discord</strong>
-                                        <br>
-                                        A discord server with over 3000 Members! Made for scambaiters, or tech savvy people. Anyone is welcome to join.
-                                    </p>
-                                </div>
-								<span class="tag is-info">Public Server</span>
-								<span class="tag is-danger">3,000+ Members</span>
-                                <nav class="level">
-                                    <div class="level-left">
-                                    </div>
-                                </nav>
-                            </div>
-                        </article>
-                    </div>
+
                     <div class="box">
                         <article class="media">
                             <div class="media-left">
